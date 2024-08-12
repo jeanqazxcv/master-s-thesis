@@ -1,1 +1,1 @@
-# paper
+# master's thesis
